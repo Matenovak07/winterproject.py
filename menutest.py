@@ -51,7 +51,7 @@ while True:
             arrow.draw(surface, mainmenu.get_current().get_selected_widget())
         pygame.display.update()
 
-menu()
+
 
 
 
